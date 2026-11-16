@@ -14,6 +14,6 @@ int main(void)
 
 int func2(int a, int b)
 {
-    /* TODO: a から b を引いた値を返す */
+ return a - b; /* TODO: a から b を引いた値を返す */
     return 0;
 }
